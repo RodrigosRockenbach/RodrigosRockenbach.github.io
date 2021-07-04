@@ -1,13 +1,14 @@
 *{
     margin: 0 auto;
 }
+
 body{
     text-align: justify !important;
     background-color: rgb(205, 231, 240) !important;
 
 }
 header{
-    background-color: rgb(155, 155, 175) !important;
+    background-color:	rgb(162, 162, 243) !important;
     /*background-image: url(Img/capa.jpg); Capa de fundo anterior*/
     object-fit: cover; 
     text-align: center;
@@ -18,14 +19,18 @@ header{
 }
 
 section{
-    padding-top: 100px;
+    padding-top: 70px;
 
+}
+
+aside{
+    padding-top: 20px;
 }
 
 footer{
     background-color: rgb(155, 155, 175) !important;
-
-    text-align: center;
+    height: 120px; 
+    padding: 15px;
 
 }
 
